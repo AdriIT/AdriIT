@@ -1,0 +1,22 @@
+Introduzione al corso. Obiettivi del corso
+ Crittografia a chiave simmetrica
+Crittografia a chiave asimmetrica. Uso di Curve Ellittiche in crittografia. Funzioni hash. 
+Scambio di chiavi, firme e certificati 
+Autenticazione
+Il protocollo Kerberos
+Matrice di Controllo degli Accessi e sue implementazioni
+Politiche e Modelli 
+Modelli per la Confidenzialità ed Integrità ; Modelli Ibridi
+Role Based Access Control
+Flusso di Informazioni e Canali coperti
+ 
+ modello HRU e non-decidibilità della safety
+Principi di Progettazione Sicura
+Il protocollo SSL/TLS
+Tutto quello che avreste voluto sapere (solo 114 pagine) sul protocollo tls
+Introduzione aI protocolli IPSEC
+Tutto quello che avreste voluto sapere sul protocollo ipsec
+Cenni su Intrusion Detection/Prevention Systems
+Cenni sui Firewalls
+Programmed threats
+Sviluppi Recenti e prospettive
